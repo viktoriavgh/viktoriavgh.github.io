@@ -1,0 +1,42 @@
+@font-face {
+    font-family: "amatic";
+    src: url("fonts/Amatic_SC/AmaticSC-Regular.ttf");
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: "amaticbold";
+    src: url("fonts/Amatic_SC/AmaticSC-Bold.ttf");
+    font-weight: 800;
+}
+
+h1 {
+    color: darkgreen;
+    font-family: "amatic";
+    text-align: center;
+    font-size: 96px;
+
+    
+}
+
+h3 {
+    color: lightgrey;
+    font-size: 48px;
+    font-family: "amatic";
+    text-align: center;
+    font-size: 96px;
+    
+}
+
+p {
+    color:lightgrey;
+    font-size: 48px;
+    font-family: "amaticbold";
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+
+
+
